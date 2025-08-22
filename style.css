@@ -1,0 +1,11 @@
+body {
+  
+  background: url(5c9bc50240335d8ab76f35de532ba675.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  /*backdrop-filter: blur(5px);*/
+  
+  
+}
